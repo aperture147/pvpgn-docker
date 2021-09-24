@@ -1,6 +1,8 @@
 Player vs Player Gaming Network - PRO on Docker
 ===============================================
 
+[![Docker Repository on Quay](https://quay.io/repository/aperture147/pvpgn-server/status "Docker Repository on Quay")](https://quay.io/repository/aperture147/pvpgn-server)
+
 This repository is made for CI/CD purpose since the Dockerfile doesn't require original source code to come with. If you want to check real source code of PvPGN, please check this [repository](https://github.com/pvpgn/pvpgn-server)
 
 To quickly deploy a PVPGN server (especially on Linux), using Docker is one of the best choices. You can gain some benefits using this:
